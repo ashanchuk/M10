@@ -1,0 +1,26 @@
+{
+  "name": "m10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor ./test/config/protractor.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashanchuk/M10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.4.0",
+    "protractor": "^7.0.0",
+    "winston": "^3.3.3",
+    "yargs": "^16.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ashanchuk/M10/issues"
+  },
+  "homepage": "https://github.com/ashanchuk/M10#readme"
+}
